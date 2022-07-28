@@ -11,7 +11,7 @@ the applications that are within the repository with their gifs are detailed.
 - Shirt App
 - Super cinema
 
-## Applications Example
+## Applications Example Super Cinema
 
 <table>
   <tr>
@@ -24,3 +24,35 @@ the applications that are within the repository with their gifs are detailed.
 
   </tr>
   </table>
+
+
+  ## Application Example Cell Phone
+<table>
+  <tr>
+  <td> Register </td>
+  <td> Login </td>
+  <td> Splash </td>
+  </tr>
+  <tr>
+  <td><img src="https://media.giphy.com/media/VyEdn9svhRkOHxuKl5/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img></td>
+   <td><img src="https://media.giphy.com/media/RjhiCBTLT3NAIQbjNt/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img></td>
+  <td><img src="https://media.giphy.com/media/hpkx6fGowa1bLEckMe/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img></td>
+  
+  </tr>
+  </table>
+
+<table>
+  <tr>
+  <td> Details </td>
+  <td> Add to Cart </td>
+  </tr>
+  <tr>
+  <td><img src="https://media.giphy.com/media/TiG6GdHL9cq1GZc3ZT/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img></td>
+  <td><img src="https://media.giphy.com/media/N7ux5BIFNUumrbElc8/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img></td>
+  
+  </tr>
+  </table>
+
+  ## Application Example Shirt App
+
+<center><img src="https://media.giphy.com/media/Pkrk0TMwov8MPX56wT/giphy.gif" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img><center>
