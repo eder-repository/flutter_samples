@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_samples/apps/cell_phone/cell_phone_main.dart';
+import 'package:flutter_samples/apps/rank_list_slider/core/app/my_app.dart';
 import 'package:flutter_samples/apps/shirt_app/pages/home/home_page_shirt_app.dart';
 import 'package:flutter_samples/apps/shirt_app/utils/contrains.dart';
 import 'package:flutter_samples/apps/super_cinema/super_cinema_main.dart';
@@ -47,6 +48,13 @@ class _Body extends StatelessWidget {
             child: const Text('Shirt App'),
             onPressed: () =>
                 navigatorPageRoute(context, const HomePageShirtApp()),
+          ),
+          const SizedBox(height: 20),
+          CupertinoButton(
+            color: Colors.black,
+            child: const Text('Rank List Slider'),
+            onPressed: () =>
+                navigatorPageRoute(context, const RankListSliderApp()),
           ),
         ],
       ),
